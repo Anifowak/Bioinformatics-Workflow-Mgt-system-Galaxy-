@@ -1,6 +1,7 @@
 **Setting the stage: Genomic Analysis of Exons and SNPs**
 ---
 - **Locate Exons**
+
 First I get some data into our history. We upload files from the PC computer, or Galaxy can also fetch data directly from external sources. UCSC has exon locations for humans and used Galaxy to import the data for chromosome 22, directly from the UCSC table browser.
 
 ---
