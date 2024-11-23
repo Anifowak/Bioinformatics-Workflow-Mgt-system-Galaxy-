@@ -13,7 +13,7 @@ First I get some data into my history. Then I upload files from the PC computer,
 - **Recover exon info**
 - **Display data in UCSC genome browser**
 ---
-Link: https://usegalaxy.eu/u/akinjide_anifowose/h/exon-location---genomic-analysis
+Genomic Analysis: https://usegalaxy.eu/u/akinjide_anifowose/h/exon-location---genomic-analysis
 
 ---
 
