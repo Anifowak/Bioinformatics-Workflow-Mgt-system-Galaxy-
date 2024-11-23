@@ -2,7 +2,7 @@
 ---
 - **Locate Exons**
 
-First I get some data into our history. We upload files from the PC computer, or Galaxy can also fetch data directly from external sources. UCSC has exon locations for humans and used Galaxy to import the data for chromosome 22, directly from the UCSC table browser.
+First I get some data into my history. Then I upload files from the PC computer, though Galaxy can also fetch data directly from external sources, for example University of California Santa Cruiz Genomics Institute (UCSC). UCSC has exon locations for humans and I used Galaxy to import the data for chromosome 22, directly from the UCSC table browser.
 
 ---
 
@@ -11,7 +11,7 @@ First I get some data into our history. We upload files from the PC computer, or
 - **Sort the exons by SNPs count**
 - **Select top five exons**
 - **Recover exon info**
-- **Display data in University of California Santa Cruiz Genomics Institute (UCSC) genome browser**
+- **Display data in UCSC genome browser**
 ---
 Link: https://usegalaxy.eu/u/akinjide_anifowose/h/exon-location---genomic-analysis
 
